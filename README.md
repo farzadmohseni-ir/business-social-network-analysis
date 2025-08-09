@@ -86,5 +86,3 @@ Both analyses involve:
 - **Gephi** – Visualization & metrics calculation  
 - **Python** – Data preprocessing & network export  
 
-💼 LinkedIn: [Your LinkedIn URL]  
-🐙 GitHub: [Your GitHub Profile]
