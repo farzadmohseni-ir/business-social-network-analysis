@@ -62,10 +62,16 @@ Both analyses involve **data preprocessing**, **network construction**, **visual
 *(Replace these placeholders with your actual exported images from Gephi)*
 
 **Q2 – Product Co-Purchase Network**  
-![Product Co-Purchase Network](images/q2_network.png)
+![Product Co-Purchase Network](https://github.com/farzadmohseni-ir/business-social-network-analysis/blob/main/Q2/Image%20output/Screenshot%202025-08-08%20080200.jpg)
+![Product Co-Purchase Network](https://github.com/farzadmohseni-ir/business-social-network-analysis/blob/main/Q2/Weighted%20Degree/Screenshot%202025-08-08%20105841.jpg)
+![Product Co-Purchase Network](https://github.com/farzadmohseni-ir/business-social-network-analysis/blob/main/Q2/Combined/100/100-2.png)
+![Product Co-Purchase Network](https://github.com/farzadmohseni-ir/business-social-network-analysis/blob/main/Q2/Betweenness%20Centrality/screenshot_120207.png)
 
 **Q16 – Car Sales Feature Network**  
-![Car Sales Feature Network](images/q16_network.png)
+![Car Sales Feature Network](https://github.com/farzadmohseni-ir/business-social-network-analysis/blob/main/Q16/Image%20output/5.jpg)
+![Car Sales Feature Network](https://github.com/farzadmohseni-ir/business-social-network-analysis/blob/main/Q16/Image%20output/7.jpg)
+![Car Sales Feature Network](https://github.com/farzadmohseni-ir/business-social-network-analysis/blob/main/Q16/Image%20output/6.png)
+![Car Sales Feature Network](https://github.com/farzadmohseni-ir/business-social-network-analysis/blob/main/Q16/Betweenness%20Centrality/3.png)
 
 
 💼 LinkedIn: [Your LinkedIn URL]  
